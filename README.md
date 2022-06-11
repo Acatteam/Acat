@@ -1,2 +1,2 @@
-# Acat
-Development of the Acat project
+# bitcomics
+Development of the bitcomics project
